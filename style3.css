@@ -1,0 +1,133 @@
+/* body {
+    background-image: url("https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+  background-size: 100% 100%;
+
+  } */
+
+  /* .image{
+    display: block;
+    margin: 15px auto;
+    background: rgb(243, 219, 245);
+    text-align-last:center;
+
+} */
+
+/*.btn{
+     background-color: rgb(236, 233, 46);
+    color: black;
+    width: 100px;
+    height: 25px;
+    border: 2px solid black;
+    text-align:center 
+    
+    /* display: flex;
+ gap: 2px; */
+     /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;  
+ 
+
+}*/
+
+  
+  /* #img{
+    float:inline-start;
+    width:3%;
+    
+  } */
+
+  .image{
+    position:absolute;
+    width: 100%;
+    background-color: rgb(230, 206, 238);
+    height: 8%;
+    
+  }
+  
+    
+  
+
+button{
+    background-color: rgb(238, 223, 234);
+    color: black;
+    width: 100px;
+    height: 25px;
+    border: 2px solid black;
+    text-align:center 
+    /* border: none;
+    /* background:rgb(92, 86, 29); 
+    width: 50px;
+    height: 25px;*/
+} 
+
+button:hover{
+    background-color: rgb(231, 230, 154);
+    color: black;
+    width: 100px;
+    height: 25px;
+    border: 2px solid black;
+    text-align:center 
+}
+
+.diva{
+    width: 100%;
+    height: 2000%;
+    background: green;
+    display: none;
+}
+
+.divb{
+    width: 100%;
+    height: 2000%;
+    background: rgb(238, 56, 56);
+    display: none;
+}
+
+.divc{
+    width: 100%;
+    height: 2000%;
+    background: rgb(31, 97, 173);
+    display: none;
+}
+
+.divd{
+    width: 100%;
+    height: 2000%;
+    background: rgb(180, 22, 133);
+    display: none;
+}
+
+.blocks{
+    display:flex;
+    width:100%;
+    height: 2000%;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#btna{
+    color: green;
+}
+
+#btnb{
+    color: red;
+}
+
+#btnc{
+    color: rgb(57, 57, 209);
+}
+
+#btnd{
+    color: rgb(196, 68, 179);
+}
+
